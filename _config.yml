@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Rui Guo/Site Title"
+locale                   : "Los Angeles"
+title                    : "Rui (Reos) Guo/UCLA"
 title_separator          : "-"
-name                     : &name "Rui Guo"
+name                     : &name "Rui (Reos) Guo"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rui Guo"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Nanjing in Jiangsu province"
-  employer         : "Nanjing University"
+  location         : "Los Angeles"
+  employer         : "University of california, Los Angeles"
   uri              : # URL
-  email            : "52202234030@nju.edu.cn" 
+  email            : "Rui.guo@ucla.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
